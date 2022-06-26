@@ -172,6 +172,7 @@
                 <property name="border_width">12</property>
                 <property name="orientation">vertical</property>
                 <child>
+                       <!-- Generated with glade 3.22.2
                   <object class="GtkScrolledWindow" id="scrolledwindow2">
                     <property name="visible">True</property>
                     <property name="can_focus">True</property>
@@ -181,7 +182,7 @@
                       <object class="GtkViewport">
                         <property name="visible">True</property>
                         <property name="can_focus">False</property>
-                        <child>
+  <child>
                           <object class="GtkTreeView" id="gtk_theme_treeview">
                             <property name="visible">True</property>
                             <property name="can_focus">True</property>
@@ -194,7 +195,7 @@
                         </child>
                       </object>
                     </child>
-                  </object>
+                  </object>-->
                   <packing>
                     <property name="expand">False</property>
                     <property name="fill">True</property>
